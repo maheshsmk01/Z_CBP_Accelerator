@@ -1,0 +1,50 @@
+[
+ {
+  "table":"/IWBEP/I_CP_MOD",
+  "data":
+  [
+   {
+    "PROXY_MODEL_ID":"ZPR_SCM_CBP_EXT_INSP",
+    "VERSION":1,
+    "MPC_NAME":"ZPR_CL_SCM_CBP_EXT_INSP",
+    "DESCRIPTION":"Inspection Lot API",
+    "CREATED_BY":"SAP_CUSTOMER",
+    "CREATED_AT":"+020250811100510",
+    "CHANGED_BY":"SAP_CUSTOMER",
+    "CHANGED_AT":"+020250811100510",
+    "ABAP_LANGUAGE_VERSION":"5",
+    "KIND":"OData_V2"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"GCPM",
+    "OBJ_NAME":"ZPR_SCM_CBP_EXT_INSP                0001",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SAP_CUSTOMER",
+    "SRCDEP":"",
+    "DEVCLASS":"Z_PRODUCE_EXT",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" L",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2025-08-11",
+    "CHECK_DATE":"2025-08-11",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]
